@@ -1,2 +1,2 @@
 # base16-fuzzel
-Base16 scheme for fuzzel menus
+Base16 template for fuzzel menus
