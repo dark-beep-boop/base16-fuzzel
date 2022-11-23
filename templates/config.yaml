@@ -1,3 +1,7 @@
 default:
 	extension: .ini
 	output: fuzzel
+
+smooth:
+	extension: .ini
+	output: fuzzel
